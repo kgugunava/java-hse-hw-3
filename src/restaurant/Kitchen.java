@@ -1,4 +1,3 @@
-// src/restaurant/Kitchen.java
 package restaurant;
 
 import java.util.concurrent.*;

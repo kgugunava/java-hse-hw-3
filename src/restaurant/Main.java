@@ -1,4 +1,3 @@
-// src/restaurant/Main.java
 package restaurant;
 
 import java.util.concurrent.ExecutorService;

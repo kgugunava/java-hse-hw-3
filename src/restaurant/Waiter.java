@@ -1,4 +1,3 @@
-// src/restaurant/Waiter.java
 package restaurant;
 
 public class Waiter implements Runnable {

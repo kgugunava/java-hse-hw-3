@@ -1,4 +1,3 @@
-// src/restaurant/Order.java
 package restaurant;
 
 import java.util.UUID;

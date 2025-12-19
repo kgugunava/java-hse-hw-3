@@ -1,4 +1,3 @@
-// src/restaurant/Customer.java
 package restaurant;
 
 import java.util.Random;
